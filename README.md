@@ -36,12 +36,26 @@ Backend Development • Distributed Systems • Web Development
 
 ## 🚀 Featured Projects
 
-- 🌍 Distributed Travel Reservation System (Spring Boot Microservices)
-- ☁️ PetCare Cloud (Flask + Azure)
-- 🛒 FelixUberShop
-- 📅 Holiday Management System
-- 🎨 Mariana Farromba Studio
-- 💼 InovaWeb
+- 🌍 [Ride-Sharing Microservices](https://github.com/dyzern/ride-sharing-microservices)  
+  Spring Boot • Spring Cloud • Docker • Microservices
+
+- ☁️ [PetCare Cloud](https://github.com/dyzern/petcare-cloud)  
+  Flask • Azure • Python
+
+- 🛒 [FelixUberShop](https://github.com/dyzern/felixubershop)  
+  JSP • Java • MySQL
+
+- 📅 [Vacation Management System](https://github.com/dyzern/vacation-management-system)  
+  PHP • MySQL • JavaScript
+
+- 🎮 [MazeRoller Android](https://github.com/dyzern/maze-roller-android)  
+  Java • Android • Accelerometer
+
+- 🎨 [Mariana Farromba Studio](https://www.mfarrombastudio.pt/)  
+  Responsive website developed for a real client
+
+- 🌿 [InovaJardins Website](https://www.inovajardins.com/)  
+  Corporate website for a landscaping company
 
 ---
 
