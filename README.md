@@ -12,7 +12,7 @@ Backend Development • Distributed Systems • Web Development
 - 🎓 Final-year Computer Engineering student
 - 💻 Passionate about Backend Development and Software Engineering
 - 🚀 Building web applications, REST APIs and distributed systems
-- 🌱 Currently completing my Bachelor's final project
+- 🌱 Currently completing my final project
 - 🎯 Looking for my first opportunity in the IT industry
 
 ---
