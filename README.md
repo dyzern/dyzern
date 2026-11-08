@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruben Gonçalves</h1>
-<h3 align="center">Final-year Computer Engineering Student</h3>
+<h3 align="center">Computer Science Engineering Graduate</h3>
 
 <p align="center">
 Backend Development • Distributed Systems • Web Development
@@ -9,11 +9,10 @@ Backend Development • Distributed Systems • Web Development
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year Computer Engineering student
-- 💻 Passionate about Backend Development and Software Engineering
-- 🚀 Building web applications, REST APIs and distributed systems
-- 🌱 Currently completing my final project
-- 🎯 Looking for my first opportunity in the IT industry
+- 🎓 I completed my degree in Computer Science Engineering.
+- 💻 I build web applications, REST APIs, and distributed systems.
+- 🚀 My projects include Spring Boot microservices, a Flask app on Azure, and websites for freelance clients.
+- 🎯 I'm looking for my first software engineering role, with a focus on backend development.
 
 ---
 
